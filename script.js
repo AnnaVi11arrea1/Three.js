@@ -10,7 +10,7 @@ const scene = new THREE.Scene();
 // object -- need geometry and material to create mesh. 
 
 const geometry = new THREE.BoxGeometry(1, 1, 1)  // width height length stuff for shape.
-const material = new THREE.MeshBasicMaterial({ color: 0xff0000 , wireframe: true}) // red hexidecimal or name, whatever.
+const material = new THREE.MeshBasicMaterial({ color: 0x00ff08, wireframe: true}) // red hexidecimal or name, whatever.
 const mesh = new THREE.Mesh( geometry, material); // set mesh const to geometry and material!
 
 scene.add(mesh); //add object to the scene! or you will have no object...

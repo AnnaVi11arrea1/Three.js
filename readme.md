@@ -1,7 +1,10 @@
 Tips
 
-have node.js installed
-npm install vite and three
-set script preferences ("vite": "dev" in package.json)
+<ul>
+<li>have node.js installed</li>
+<li>npm install vite and three</li>  
+<li>set script preferences ("vite": "dev" in package.json)</li>
+</ul>
 
-![threejs screentshot wireframe cube](wireframe.png)
+
+<img src="images/wireframe.png" width="400" alt="screenshot of cube">

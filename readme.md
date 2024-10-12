@@ -8,3 +8,4 @@ Tips
 
 
 <img src="images/wireframe.png" width="400" alt="screenshot of cube">
+<img src="images/image.png" width="400" alt="screenshot of cube">

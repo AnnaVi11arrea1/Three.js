@@ -1,1 +1,3 @@
-console.log("first three js project files");
+import * as THREE from 'three';
+
+console.log(THREE)

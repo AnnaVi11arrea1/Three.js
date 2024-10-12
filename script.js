@@ -15,7 +15,6 @@ const mesh = new THREE.Mesh( geometry, material); // set mesh const to geometry 
 
 scene.add(mesh); //add object to the scene! or you will have no object...
 
-
 // sizes
 
 const sizes = {
@@ -28,7 +27,6 @@ const sizes = {
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height); // angle and aspect ratio
 camera.position.z = 3;
 scene.add(camera); // not important now, but for later projects yes.
-
 
 // webgl renderer
 

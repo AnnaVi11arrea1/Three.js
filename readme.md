@@ -13,8 +13,12 @@ three.js has lots of controls built in. Here is "orbit control"
 
 https://github.com/user-attachments/assets/6a61215c-392f-4ed5-99f3-591379b8bd54
 
+Making a responsive viewport:
+
+https://github.com/user-attachments/assets/47838976-0bde-4bd0-a03e-17686828373a
 
 
-Rendered wireframe:
 
-<img src="images/image.png" width="400" alt="screenshot of cube">
+
+
+
